@@ -1,0 +1,8 @@
+E:\JetBrainToolbox\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\the_remote_city\man\Git\Helloworld
+-- [Mozart++]: including Core
+-- [Mozart++]: including Foundation
+-- [Mozart++]: including String
+-- [Mozart++]: including System
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/the_remote_city/man/Git/Helloworld/cmake-build-debug
